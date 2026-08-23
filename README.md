@@ -416,6 +416,9 @@ global-development-clustering/
 git clone https://github.com/Utkarsh-Yadav-0000/global-development-clustering.git
 cd global-development-clustering
 ```
+
+---
+
 ### 2. Create a Virtual Environment (Recommended)
 
 It is recommended to use a virtual environment for the project.
